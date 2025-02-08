@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    /* background-color: rgb(42, 181, 42); */
+    background: url(assets/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container_display {
+    display: inline-block;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 8px;
+    background: #f9f9f9 ;
+    text-align: left;
+}
+
+.btn {
+    color: white;
+    background-color: seagreen;
+    padding: 8px 20px;
+    font-size: 15px;
+    border: 2px solid white;
+    border-radius: 10px;
+    cursor: pointer;
+}
